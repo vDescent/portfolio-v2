@@ -54,6 +54,25 @@ main {
 
 /* Navbar End */
 
+/* BTN */
+.btn-github{
+    display: flex;
+    height: 50px;
+    width: 150px;
+    background-color: black;
+    border-radius: 10px;
+    justify-content: center;
+    align-items: center;
+    margin: 20px 0 0 0;
+}
+.btn-github a{
+    text-align: center;
+    color: white;
+    text-decoration: none;
+    font-family: var(--font);
+}
+
+
 /* Container Jumbo Start */
 .containerJumbo{
     display: flex;
